@@ -5,6 +5,8 @@ navbar:
     - text: "About"
       icon: fa-home
       href: index.html
+    - text: "CV"
+      href: Huong_Nguyen_CV.pdf
     - text: "Projects"
       href: project.html
   right:
