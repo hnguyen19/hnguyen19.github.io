@@ -1,0 +1,20 @@
+name: ""
+navbar:
+  title: ""
+  left:
+    - text: "About"
+      icon: fa-home
+      href: index.html
+    - text: "Projects"
+      href: project.html
+  right:
+    - text: "Contact me"
+      icon: fa-envelope-o
+      href: mailto:huong@iastate.edu                   # CHANGE HERE
+    - text: "GitHub"
+      icon: fa-github
+      href: https://github.com/hnguyen19       # CHANGE HERE
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
