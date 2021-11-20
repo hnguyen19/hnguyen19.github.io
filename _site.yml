@@ -16,5 +16,5 @@ navbar:
       href: https://github.com/hnguyen19       # CHANGE HERE
 output:
   html_document:
-    theme: cosmo
+    theme: lumen #jekyll-theme-simplex
     highlight: textmate
