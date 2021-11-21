@@ -1,7 +1,7 @@
 name: ""
 output_dir: "."
 navbar:
-  title: ""
+  title: "Huong Nguyen"
   left:
     - text: "About"
       icon: fa-home
@@ -19,5 +19,5 @@ navbar:
       href: https://github.com/hnguyen19       # CHANGE HERE
 output:
   html_document:
-    theme: lumen #jekyll-theme-simplex
-    highlight: textmate
+    theme: paper #jekyll-theme-simplex
+    css: 'styles.css'
