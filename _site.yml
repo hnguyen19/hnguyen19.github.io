@@ -10,6 +10,9 @@ navbar:
       href: Huong_Nguyen_CV.pdf
     - text: "Projects"
       href: project.html
+      menu:
+        - text: "Waterhemp reproductive potential"
+        - href: https://github.com/hnguyen19/AMATA_fecundity/blob/master/docs/Abstract.html
   right:
     - text: "Contact me"
       icon: fa-envelope-o
