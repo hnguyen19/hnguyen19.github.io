@@ -16,10 +16,13 @@ navbar:
   right:
     - text: "Contact me"
       icon: fa-envelope-o
-      href: mailto:huong@iastate.edu                   # CHANGE HERE
+      href: mailto:huong@iastate.edu
+    - text: "GitHub"
+      icon: fa-google
+      href: https://scholar.google.com/citations?user=r0uk78EAAAAJ&hl=en
     - text: "GitHub"
       icon: fa-github
-      href: https://github.com/hnguyen19       # CHANGE HERE
+      href: https://github.com/hnguyen19
 output:
   html_document:
     theme: paper #jekyll-theme-simplex

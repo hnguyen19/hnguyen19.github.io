@@ -1,5 +1,7 @@
 ---
-title: "Huong Nguyen"
+title: ""
 ---
 
-Hello! I am a Ph.D. candidate in Sustainable Agriculture at Iowa State University.
+Hello! Thank you for visiting. I am a Ph.D. candidate in Sustainable Agriculture at Iowa State University. I study population dynamics of common waterhemp (*Amaranthus tuberculatus*) in simple versus diversified cropping systems using a periodic matrix model.
+
+
