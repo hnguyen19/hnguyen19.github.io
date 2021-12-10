@@ -17,7 +17,7 @@ navbar:
     - text: "Contact me"
       icon: fa-envelope-o
       href: mailto:huong@iastate.edu
-    - text: "GitHub"
+    - text: "Google Scholar"
       icon: fa-google
       href: https://scholar.google.com/citations?user=r0uk78EAAAAJ&hl=en
     - text: "GitHub"
