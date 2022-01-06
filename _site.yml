@@ -9,12 +9,12 @@ navbar:
     - text: "CV"
       href: Huong_Nguyen_CV.pdf
     - text: "Projects"
-      href: project.html
+      href: Projects
       menu:
         - text: "Waterhemp reproductive potential"
-        - href: https://github.com/hnguyen19/AMATA_fecundity/blob/master/docs/Abstract.html
-    -text: "Certificates"
-      href: certificate.html
+        - href: https://hnguyen19.github.io/Projects/AMATA_fecundity/docs/Abstract.html
+#    - text: "Certificates"
+#      href: certificate.html
   right:
     - text: "Contact me"
       icon: fa-envelope-o
