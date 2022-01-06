@@ -13,6 +13,8 @@ navbar:
       menu:
         - text: "Waterhemp reproductive potential"
         - href: https://github.com/hnguyen19/AMATA_fecundity/blob/master/docs/Abstract.html
+    -text: "Certificates"
+      href: certificate.html
   right:
     - text: "Contact me"
       icon: fa-envelope-o
