@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Huong T. X. Nguyen"
 title_separator          : "-"
 name                     : &name "Huong T. X. Nguyen"
 description              : &description "personal description"
-url                      : https:/hnguyen19.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https:/hnguyen19.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hnguyen19/hnguyen19.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Huong T. X. Nguyen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "An agroecologist who cares deeply about food justice"
   location         : "Ithaca, NY, USA"
   employer         : "Cornell University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=r0uk78EAAAAJ&hl=en"
   email            : "huong.nguyen@cornell.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Huong-Nguyen-245"
   uri              :
   bitbucket        :
   codepen          :
@@ -181,9 +181,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-#  portfolio:
-#    output: true
-#    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 #  talks:
 #    output: true
 #    permalink: /:collection/:path/
