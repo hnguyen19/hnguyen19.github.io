@@ -1,14 +1,14 @@
 {
-    "id": "40EAF3EF",
-    "path": "~/Documents/hnguyen19.github.io/_teaching/2014-spring-teaching-1.md",
-    "project_path": "_teaching/2014-spring-teaching-1.md",
-    "type": "markdown",
-    "hash": "0",
+    "id": "6AE83FBB",
+    "path": "~/Documents/hnguyen19.github.io/LICENSE",
+    "project_path": "LICENSE",
+    "type": "text",
+    "hash": "3496126946",
     "contents": "",
     "dirty": false,
-    "created": 1686507141270.0,
+    "created": 1686525570162.0,
     "source_on_save": false,
-    "relative_order": 1,
+    "relative_order": 2,
     "properties": {
         "source_window_id": "",
         "Source": "Source"
