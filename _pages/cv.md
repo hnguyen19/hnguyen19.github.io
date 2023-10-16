@@ -11,30 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Crop Science, Vietnam National University of Agriculture, 2012
+* M.S. in Sustainable Agriculture, Iowa State University, 2016
+* Ph.D. in Sustainable Agriculture, Iowa State University, 2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep. 2022 - present: Postdoctoral Associate
+  * Cornell University
+  * Responsibilities: 
+    *	Analyze comprehensive cover crop and weed data for data-driven organic and alternative food production systems decision-making applicable to the northeastern USA and other regions.
+  	* Disseminate findings at national and international conferences.
+    * Collaborate in experiment design, data collection, and analyses
+  * Supervisor: Dr. Matt Ryan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Experiment design
+* Statistical programs 
+  * R
+  * SAS
+
 
 Publications
 ======
@@ -56,4 +55,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+
