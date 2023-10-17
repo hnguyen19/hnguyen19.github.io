@@ -57,4 +57,6 @@ Talks
   
 Service and leadership
 ======
-* Reviewer for: Frontiers in Agronomy, Scientific Reports, Renewable Agriculture and Food Systems, Sustainable Agriculture Research, Weed Science Journal 
+* Reviewer for: Frontiers in Agronomy, Scientific Reports, Renewable Agriculture and Food Systems, Sustainable Agriculture Research, Weed Science Journal
+
+  
