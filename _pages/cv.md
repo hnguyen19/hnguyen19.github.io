@@ -54,12 +54,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-
+* Reviewer for: Frontiers in Agronomy, Scientific Reports, Renewable Agriculture and Food Systems, Sustainable Agriculture Research, Weed Science Journal 
