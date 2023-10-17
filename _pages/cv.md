@@ -30,11 +30,12 @@ Work experience
   *	Responsibilities:
     *	Collected and analyzed data on weed community flora and seedbank and presented the results at conferences and in peer-reviewed journals
     * Designed data collection scheme on a long-term, large-scale experiment for common waterhemp dynamics, summarized and analyzed the collected data in the form of a periodic matrix model
+  * Supervisor: Dr. Matt Liebman
 
   
 Skills
 ======
-* Experiment design
+* Agricultural experiment design
 * Population dynamics modeling
 * Data Analytics
   * <https://www.coursera.org/account/accomplishments/professional-cert/35RZSMF5P9D5>
