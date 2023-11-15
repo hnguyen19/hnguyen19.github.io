@@ -1,0 +1,10 @@
+---
+title: "How can cover crops contribute to weed management? A modelling approach illustrated with rye (Secale cereale) and Amaranthus tuberculatus "
+collection: publications
+permalink: /publication/2021-09-22-corn-rye-soy
+excerpt: 'This paper is about the contribution of rye cover crop in weed control in corn soybean system.'
+date: 2021-09-22
+venue: 'Weed Research'
+paperurl: 'https://doi.org/10.1111/wre.12508'
+---
+Cover cropping has been proposed as an important component of integrated weed management strategies due to its potential effects on multiple demographic processes, including weed seedling emergence from soil, plant survival, seed production, and seed predation. In this article, we report the results of modelling analyses that investigated how a cover crop could affect the population dynamics of Amaranthus tuberculatus (Moq.) J.D. Sauer (waterhemp), an annual dicotyledonous species that is a major problem in maize and soyabean fields in the central USA. We constructed difference equation models for maize–soyabean rotations with and without a rye cover crop and parameterised the models with values drawn from published scientific literature. Results of the analyses indicate that the use of a winter cover crop would have minimal effects on the level of herbicide efficacy required to prevent increases in A. tuberculatus population density in maize and soyabean. However, if a high level of herbicide efficacy was imposed, cover crop-derived reductions in A. tuberculatus seedling population density, delays in seedling emergence, and increases in seed predation would diminish A. tuberculatus seed population density in soil up to 96% over a 10-year period. Thus, while cover crops did not replace the need for other control strategies for A. tuberculatus, they could complement them. Relative to cover crops, greater benefits for A. tuberculatus management might be gained using diverse sequences of cash crops. Possible synergies between cover crops and diversified crop rotations should be explored in both field experiments and modelling analyses.
