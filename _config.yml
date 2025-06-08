@@ -83,11 +83,11 @@ author:
   name             : "Huong T. X. Nguyen"
   avatar           : "profile.png"
   bio              : "An agroecologist who cares deeply about food justice"
-  location         : "Ithaca, NY, USA"
-  employer         : "Cornell University"
+  location         : "Sainte-Anne-de-Bellevue, Quebec, Canada"
+  employer         : "McGill University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=r0uk78EAAAAJ&hl=en"
-  email            : "huong.nguyen@cornell.edu"
+  email            : "huong.nguyen3@mcgill.ca"
   researchgate     :  "https://www.researchgate.net/profile/Huong-Nguyen-245"
   uri              :
   bitbucket        :
@@ -187,7 +187,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  current projects:
+  current_work:
     output: true
     permalink: /:collection/:path/
 
