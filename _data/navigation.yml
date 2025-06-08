@@ -1,22 +1,22 @@
-# main links links
+# main links 
 main:
+  - title: "Current Work"
+    url: /current/    
+
   - title: "Publications"
     url: /publications/
-
-#  - title: "Talks"
-#    url: /talks/    
-
-#  - title: "Teaching"
-#    url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Past Work"
     url: /portfolio/
         
-#  - title: "Blog Posts"
-#    url: /year-archive/
+  - title: "Open Letter"
+    url: /open-letter/
     
   - title: "CV"
     url: /cv/
+
+  - title: "Opportunities"
+    url: /opportunities/    
     
 #  - title: "Guide"
 #    url: /markdown/
