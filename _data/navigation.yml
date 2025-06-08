@@ -3,16 +3,16 @@ main:
   - title: "Current Work"
     url: /current/    
 
-  - title: "Publications"
+  - title: "Past Work"
     url: /publications/
     
-  - title: "Past Work"
-    url: /portfolio/
+#  - title: "Past Work"
+#    url: /portfolio/
         
   - title: "Open Letter"
     url: /open-letter/
     
-  - title: "CV"
+  - title: "Professional Snapshot"
     url: /cv/
 
   - title: "Opportunities"
