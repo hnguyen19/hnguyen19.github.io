@@ -26,17 +26,17 @@ Work experience
 *	Aug. 2014 – Aug. 2022: Graduate Student Research Assistant, Iowa State University, Ames, Iowa, USA (Major professor Dr. Matt Liebman)
   
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+# Publications
+# ======
+#  <ul>{% for post in site.publications %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+# Talks
+# ======
+#  <ul>{% for post in site.talks %}
+#    {% include archive-single-talk-cv.html %}
+#  {% endfor %}</ul>
   
   
 Service and leadership
