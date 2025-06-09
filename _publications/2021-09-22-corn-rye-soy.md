@@ -2,7 +2,7 @@
 title: "How can cover crops contribute to weed management? A modelling approach illustrated with rye (Secale cereale) and Amaranthus tuberculatus "
 collection: publications
 permalink: /publication/2021-09-22-corn-rye-soy
-excerpt: 'This paper is about the contribution of rye cover crop in weed control in corn soybean system.'
+excerpt: 'We report the results of modelling analyses that investigated how a cover crop could affect the population dynamics of Amaranthus tuberculatus (Moq.) J.D. Sauer (waterhemp), an annual dicotyledonous species that is a major problem in maize and soyabean fields in the central USA. While cover crops did not replace the need for other control strategies for A. tuberculatus, they could complement them. Relative to cover crops, greater benefits for A. tuberculatus management might be gained using diverse sequences of cash crops. Possible synergies between cover crops and diversified crop rotations should be explored in both field experiments and modelling analyses.'
 date: 2021-09-22
 venue: 'Weed Research'
 paperurl: 'https://doi.org/10.1111/wre.12508'
