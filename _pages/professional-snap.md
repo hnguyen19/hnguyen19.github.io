@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Professional Snapshot"
-permalink: /cv/
+permalink: /professional-snap/
 author_profile: true
 redirect_from:
   - /resume
