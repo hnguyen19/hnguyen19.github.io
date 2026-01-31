@@ -28,7 +28,7 @@ Below are additional external funding opportunities.
 
 - Mitacs Globalink Research Internship
   - Levels: Undergraduate, or combined undergraduate-Master's, short-term
-  - More details: <https://www.mitacs.ca/our-programs/globalink-research-award/](https://www.mitacs.ca/our-programs/globalink-research-internship-students/>
+  - More details: <https://www.mitacs.ca/our-programs/globalink-research-internship-students/>
 
 - Schlumberger Foundation Faculty for the Future  
   - Levels: PhD, Postdoctoral   
