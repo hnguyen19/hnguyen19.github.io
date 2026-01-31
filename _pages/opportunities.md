@@ -30,6 +30,10 @@ Below are additional external funding opportunities.
   - Levels: Undergraduate, or combined undergraduate-Master's, short-term
   - More details: <https://www.mitacs.ca/our-programs/globalink-research-internship-students/>
 
+- Organization of American States Academic Scholarships
+  - Levels: Undergraduate and graduate, 2 years maximum
+  - More details: <https://www.oas.org/en/scholarships/default.asp>
+    
 - Schlumberger Foundation Faculty for the Future  
   - Levels: PhD, Postdoctoral   
   - More details: <https://www.fftf.slb.com/FAQ.aspx>  
