@@ -6,7 +6,7 @@ permalink: /opportunities/
 
 This page will be updated as research opportunities become available. 
 
-**Funded Positions:** At this time, I am available to supervise students and trainees who currently hold substantial financial aid. Available positions for funded projects from my program will be listed at <https://hnguyen19.github.io/current/>.  
+**Funded Positions:** Available positions for funded projects from my program will be listed at <https://hnguyen19.github.io/current/>. Interested candidates with external funding are welcome to apply. 
 
 **Honors Theses & Applied Master's Projects**: I also welcome honors thesis and applied master's students working on required research projects. While funding is not available for these positions, I provide strong mentorship and support to help students develop research skills and complete high-quality work. I'm also happy to help students apply for external funding opportunities.
 
